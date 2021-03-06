@@ -1,0 +1,12 @@
+cn\net\sight\share\mapper\TbItemMapper.class
+cn\net\sight\share\mapper\TbItemDescMapper.class
+cn\net\sight\share\mapper\TbItemCatMapper.class
+cn\net\sight\share\mapper\TbItemParamMapper.class
+cn\net\sight\share\mapper\TbContentCategoryMapper.class
+cn\net\sight\share\mapper\TbItemParamItemMapper.class
+cn\net\sight\share\mapper\TbUserMapper.class
+cn\net\sight\share\mapper\TbOrderMapper.class
+cn\net\sight\share\mapper\TbOrderShoppingMapper.class
+cn\net\sight\share\mapper\TbItemLinkMapper.class
+cn\net\sight\share\mapper\TbContentMapper.class
+cn\net\sight\share\mapper\TbOrderItemMapper.class
